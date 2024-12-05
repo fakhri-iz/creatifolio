@@ -20,6 +20,6 @@
                     <a href=""  class="font-medium text-lg hover:text-portto-light-gold transition-all duration-300">About</a>
                 </li>
             </ul>
-            <button class="bg-portto-light-gold font-bold text-lg p-[14px_30px] rounded-full transition-all duration-300 hover:shadow-[0_10px_20px_0_#FFE7C280]">Hire Me</button>
+            <a href="{{route('front.book')}}" class="bg-portto-light-gold font-bold text-lg p-[14px_30px] rounded-full transition-all duration-300 hover:shadow-[0_10px_20px_0_#FFE7C280]">Hire Me</a>
         </div>
 </nav>
