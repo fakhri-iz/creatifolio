@@ -34,5 +34,5 @@
                 </div>
             </div>
         </div>
-        <p class="text-sm text-[#A0A0AC] text-center">All Rights Reserved. Copyright BuildWithAngga 2024.</p>
+        <p class="text-sm text-[#A0A0AC] text-center">All Rights Reserved. Copyright Creatifolio 2024.</p>
     </footer>
